@@ -1,6 +1,6 @@
 # Awesome Source Seeking Papers
 
-**Gas source seeking/Odor Source Localization** refers to the process where autonomous robots actively search for gas leak sources in complex environments using sensor measurements. This repository includes single-robot, multi-robot, and review papers in this field.
+**Gas Source Seeking/Odor Source Localization** refers to the process where autonomous robots actively search for gas leak sources in complex environments using sensor measurements. This repository includes single-robot, multi-robot, and review papers in this field.
 
 ## Single-robot
 
